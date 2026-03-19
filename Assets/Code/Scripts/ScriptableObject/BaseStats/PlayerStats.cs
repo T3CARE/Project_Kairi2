@@ -6,12 +6,14 @@ public class PlayerStats : ScriptableObject
 	[Header("플레이어 기본 스탯")]
 	[Header("이동속도")]
 	public float speed;
-	[Header("대쉬 속도")]
-	public float dashSpeed;
 	[Header("점프 높이")]
 	public float jumpForce;
 	[Header("공격력")]
 	public float attack;
 	[Header("체력")]
 	public float maxHP;
+	[Header("대쉬 속도")]
+	public float dashSpeed;
+	[Header("무적 시간")]
+	public float invincibilityDuration;
 }

@@ -16,3 +16,5 @@ MonoBehaviour:
   jumpForce: 15
   attack: 999
   maxHP: 5
+  dashSpeed: 30
+  invincibilityDuration: 0.5

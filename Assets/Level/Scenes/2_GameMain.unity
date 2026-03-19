@@ -29055,11 +29055,12 @@ MonoBehaviour:
   enemyStats: {fileID: 11400000, guid: 9fa503a5225c11242929f38c77f7cd96, type: 2}
   playerStatsRuntime:
     speed: 0
-    dashSpeed: 0
     jumpForce: 0
     attack: 0
     maxHP: 0
     currentHP: 0
+    dashSpeed: 0
+    invincibilityDuration: 0
 --- !u!1 &1733954245
 GameObject:
   m_ObjectHideFlags: 0
